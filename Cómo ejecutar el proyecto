@@ -2,3 +2,11 @@
 1. **Clonar el repositorio**:
    ```bash
    git clone [https://github.com/tu-usuario/amigo-secreto.git](https://github.com/tu-usuario/amigo-secreto.git)
+---
+
+### **Licencia y agradecimientos**
+Puedes terminar con una pequeña sección para dar crédito.
+
+```markdown
+## Agradecimientos 🙏
+Proyecto desarrollado en el marco del programa ONE de Alura Latam y Oracle.
