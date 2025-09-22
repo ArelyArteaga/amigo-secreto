@@ -1,0 +1,5 @@
+## Características 🚀
+- **Agregar amigos**: Añade nombres a una lista.
+- **Validación de entrada**: Evita campos de texto vacíos.
+- **Sorteo aleatorio**: Selecciona un nombre al azar de la lista.
+- **Interfaz intuitiva**: Diseño responsive y amigable para el usuario.
